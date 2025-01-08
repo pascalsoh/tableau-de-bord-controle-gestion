@@ -4,5 +4,5 @@ The dashboard provides an overview of key metrics related to drivers, including 
 
 Le tableau de bord fournit un aperçu des principaux indicateurs liés aux chauffeurs, incluant le nombre total de chauffeurs, la consommation totale de carburant, la distance totale parcourue, les coûts fixes, la quantité totale de carburant utilisée et les coûts de maintenance. Il affiche également une tendance des kilomètres parcourus sur les deux dernières années. De plus, un tableau récapitulatif détaille les kilomètres, la consommation de carburant, la consommation moyenne de carburant, les coûts fixes et les coûts de maintenance pour chaque chauffeur, offrant ainsi une vue claire de la performance individuelle et de l'efficacité opérationnelle.
 
-![fleet management](fleet management.png)
+![](fleet_management.png)
 
